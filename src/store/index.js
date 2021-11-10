@@ -41,4 +41,5 @@ export default createStore({
   modules: {
     auth, request
   }
+
 })
